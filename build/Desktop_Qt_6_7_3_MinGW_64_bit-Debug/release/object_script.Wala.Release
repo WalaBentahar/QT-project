@@ -1,0 +1,14 @@
+release/client.o
+release/clientdialog.o
+release/commande.o
+release/commandedialog.o
+release/connection.o
+release/emailservice.o
+release/main.o
+release/mainwindow.o
+release/statisticswidget.o
+release/moc_clientdialog.o
+release/moc_commandedialog.o
+release/moc_emailservice.o
+release/moc_mainwindow.o
+release/moc_statisticswidget.o

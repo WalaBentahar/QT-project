@@ -1,0 +1,14 @@
+debug/client.o
+debug/clientdialog.o
+debug/commande.o
+debug/commandedialog.o
+debug/connection.o
+debug/emailservice.o
+debug/main.o
+debug/mainwindow.o
+debug/statisticswidget.o
+debug/moc_clientdialog.o
+debug/moc_commandedialog.o
+debug/moc_emailservice.o
+debug/moc_mainwindow.o
+debug/moc_statisticswidget.o
